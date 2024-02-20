@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Normajel 🇨🇱🇨🇱🇨🇱
 - 👀 I'm interested in learning programming and data analysis
-- 🌱 I’m currently learning Html, js and Css. i'm very excited.
+- 🌱 I’m currently learning Html, js and Css, PHP and MySql.
+- I'm very excited ❤️❤️❤️
 
 <!---
 Normajel/Normajel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
